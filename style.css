@@ -413,7 +413,7 @@ body {
 }
 
 .hero-logo-img {
-  height: 80px;
+  height: 100px;
   width: auto;
   margin-bottom: 15px;
   filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.3));
